@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Welcome page for the Best Website in the World!!!
+---
+
 # Welcome to my website!
 
 This is **bold** text
